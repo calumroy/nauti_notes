@@ -9,7 +9,7 @@ decorator==4.0.10
 entrypoints==0.2.2
 enum34==1.1.6
 filterpy==0.1.2
-fix-osx-virtualenv==0.1
+
 functools32==3.2.3.post2
 gnureadline==6.3.3
 html5lib==0.9999999
